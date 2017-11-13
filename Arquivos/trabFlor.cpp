@@ -1,8 +1,8 @@
 //******UNIVERSIDADE DE BRASÍLIA*****************
-//******TAG: 2017/01
-//******ALUNOS: GUILHERME ANDREÚCE - 
-//******ALUNOS: RODRIGO VILAÇA - 14/0031111
-//******ALUNOS: YAN VICTOR - 14/0033599
+//******TAG: 2017/02 - COMPUTACAO EXPERIMENTAL
+//******ALUNOS: GUILHERME ANDREÚCE 
+//******ALUNOS: RODRIGO VILAÇA
+//******ALUNOS: ROMULO FILHO
 //***********************************************
 #include <bits/stdc++.h>
 #include "Eigen/Dense" //INSIRA A PASTA "Eigen" NO MESMO LOCAL DO ARQUIVO t.cpp
