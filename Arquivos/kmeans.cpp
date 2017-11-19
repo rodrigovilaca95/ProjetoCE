@@ -254,7 +254,7 @@ public:
 
 			if(done == true || iter >= max_iterations)
 			{
-				cout << "Break in iteration " << iter << "\n\n";
+				//cout << "Break in iteration " << iter << "\n\n";
 				break;
 			}
 
@@ -267,31 +267,31 @@ public:
 			int total_points_cluster =  clusters[i].getTotalPoints();
 			float soma = 0, somaC = 0;
 
-			cout << "Cluster " << clusters[i].getID() + 1 << endl;
+			cout << "#" << endl;//cout << "Cluster " << clusters[i].getID() + 1 << endl;
 			for(int j = 0; j < total_points_cluster; j++)
 			{
-				cout << "Point " << clusters[i].getPoint(j).getID() + 1 << ": ";
+				//cout << "Point " << clusters[i].getPoint(j).getID() + 1 << ": ";
 				for(int p = 0; p < total_values; p++)
 					soma += clusters[i].getPoint(j).getValue(p);//cout << clusters[i].getPoint(j).getValue(p) << " ";
 				soma = soma/total_values;
-				cout << soma << " ";
+				cout << soma;
 
 				string point_name = clusters[i].getPoint(j).getName();
 
 				if(point_name != "")
-					cout << "- " << point_name;
+					//cout << "- " << point_name;
 
 				cout << endl;
 			}
 
-			cout << "Cluster values: ";
+			cout << "$" << endl;//cout << "Cluster values: ";
 
 			for(int j = 0; j < total_values; j++)
 				somaC += clusters[i].getCentralValue(j);//cout << clusters[i].getCentralValue(j) << " ";
 			somaC = somaC/total_values;
-			cout << somaC;
+			cout << somaC << endl;
 
-			cout << "\n\n";
+			//cout << "\n\n";
 		}
 	}
 };
