@@ -63,7 +63,7 @@ matriz_raiz_inversa();
 multiplica_matrizes_ML();//FIM DO PASSO2: MATRIZL
 autovetores();//FIM DO PASSO3: MATRIZX
 normaliza();//FIM DO PASSO4: MATRIZY
-cout << "101 2 14 100 1\n";
+cout << "101 2 10 100 1\n";
 for (int i=0;i<size_inst;i++){
     for (int j = 0; j<col_normaliza;j++){
         cout << matrizY[i][j] << " ";

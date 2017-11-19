@@ -265,13 +265,16 @@ public:
 		for(int i = 0; i < K; i++)
 		{
 			int total_points_cluster =  clusters[i].getTotalPoints();
+			float soma = 0, somaC = 0;
 
 			cout << "Cluster " << clusters[i].getID() + 1 << endl;
 			for(int j = 0; j < total_points_cluster; j++)
 			{
 				cout << "Point " << clusters[i].getPoint(j).getID() + 1 << ": ";
 				for(int p = 0; p < total_values; p++)
-					cout << clusters[i].getPoint(j).getValue(p) << " ";
+					soma += clusters[i].getPoint(j).getValue(p);//cout << clusters[i].getPoint(j).getValue(p) << " ";
+				soma = soma/total_values;
+				cout << soma << " ";
 
 				string point_name = clusters[i].getPoint(j).getName();
 
@@ -284,7 +287,9 @@ public:
 			cout << "Cluster values: ";
 
 			for(int j = 0; j < total_values; j++)
-				cout << clusters[i].getCentralValue(j) << " ";
+				somaC += clusters[i].getCentralValue(j);//cout << clusters[i].getCentralValue(j) << " ";
+			somaC = somaC/total_values;
+			cout << somaC;
 
 			cout << "\n\n";
 		}

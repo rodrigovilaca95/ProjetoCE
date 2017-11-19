@@ -1,8 +1,8 @@
 //******UNIVERSIDADE DE BRASÍLIA*****************
-//******TAG: 2017/02 - COMPUTACAO EXPERIMENTAL
-//******ALUNOS: GUILHERME ANDREÚCE 
-//******ALUNOS: RODRIGO VILAÇA
-//******ALUNOS: ROMULO FILHO
+//******TAG: 2017/01
+//******ALUNOS: GUILHERME ANDREÚCE - 
+//******ALUNOS: RODRIGO VILAÇA - 14/0031111
+//******ALUNOS: YAN VICTOR - 14/0033599
 //***********************************************
 #include <bits/stdc++.h>
 #include "Eigen/Dense" //INSIRA A PASTA "Eigen" NO MESMO LOCAL DO ARQUIVO t.cpp
@@ -11,14 +11,13 @@ using namespace Eigen;
 //------------------------------Como compilar e executar
 //Compile: g++ -I /destino/Eigen t.cpp -o t
 //Execute: ./t
-//--------------------------------------------------------------//DEFINES
-#define size_att 4 //numero total de atributos de cada instancia: usada para FOR'S, DECLARAÇÕES, ETC.
-#define size_inst 150 //numero total de instancias: usada para FOR'S, DECLARAÇÕES, ETC.
+#define size_att 10 //numero total de atributos de cada instancia: usada para FOR'S, DECLARAÇÕES, ETC.
+#define size_inst 250 //numero total de instancias: usada para FOR'S, DECLARAÇÕES, ETC.
 #define sigma 10 //para comparar distância entre duas instâncias: compare()
 #define col_normaliza 2 //para pegar somente as duas primeiras colunas da matrizX e matrizY
 //--------------------------------------------------------------//DECLARAÇÃO DE VARIÁVEIS
-char name[size_inst][100]; //matriz de atributos
-float data[size_inst][size_att]; //nome dos animaizinhos lalala
+char name[size_inst][2]; //matriz de atributos
+int data[size_inst][size_att]; //nome dos animaizinhos lalala
 double matrizA[size_inst][size_inst]; //Matriz A de afinidade
 double matrizD[size_inst][size_inst]; //Matriz D diagonal para guardar a soma das linhas de MATRIZA
 double matrizI[size_inst][size_inst]; //Matriz 'I'nversa de D
@@ -63,7 +62,7 @@ matriz_raiz_inversa();
 multiplica_matrizes_ML();//FIM DO PASSO2: MATRIZL
 autovetores();//FIM DO PASSO3: MATRIZX
 normaliza();//FIM DO PASSO4: MATRIZY
-cout << "150 2 10 100 1\n";
+cout << "250 2 10 100 1\n";
 for (int i=0;i<size_inst;i++){
     for (int j = 0; j<col_normaliza;j++){
         cout << matrizY[i][j] << " ";
@@ -90,13 +89,14 @@ for (int i=0;i<size_inst;i++){
 void read_file(){
     FILE *teto;
     int k=0;
-    teto = fopen("lista_flores.in" ,"r+");
-    while(fscanf(teto, "%s", name[k])!=EOF){
+    teto = fopen("lista_poker1.in" ,"r+");
+    do{
         for(int j=0; j<size_att; ++j){
-            fscanf(teto, "%f ", &data[k][j]); //LÊ BOOLEANS COMO INTEIROS. ESSA TIPAGEM NÃO AFETA A VERIFICAÇÃO
-        }
-       	++k;
-    }
+            fscanf(teto, "%d,", &data[k][j]); //LÊ BOOLEANS COMO INTEIROS. ESSA TIPAGEM NÃO AFETA A VERIFICAÇÃO   
+            }  
+            ++k; 
+        }while(fscanf(teto, "%s", name[k-1])!=EOF);
+        
     fclose(teto);
 }
 

@@ -1,0 +1,282 @@
+Break in iteration 21
+
+Cluster 1
+Point 145: 3.7 - 0
+Point 11: 3.17 - 1
+Point 20: 5.417 - 1
+Point 27: 4.2417 - 1
+Point 47: 4.12417 - 0
+Point 53: 4.31242 - 0
+Point 127: 4.43124 - 1
+Point 148: 5.04312 - 0
+Point 159: 4.20431 - 1
+Point 164: 5.52043 - 1
+Point 205: 4.55204 - 0
+Point 220: 5.1552 - 0
+Point 238: 5.31552 - 0
+Point 36: 5.93155 - 0
+Point 70: 4.89316 - 1
+Point 119: 4.88932 - 1
+Point 208: 4.18893 - 0
+Point 226: 5.71889 - 0
+Point 84: 5.47189 - 0
+Point 98: 5.14719 - 3
+Point 17: 2.91472 - 4
+Point 135: 5.79147 - 0
+Point 90: 4.37915 - 0
+Point 108: 5.03791 - 1
+Point 122: 4.50379 - 0
+Point 71: 5.25038 - 1
+Point 176: 5.42504 - 1
+Point 174: 4.9425 - 1
+Point 215: 5.69425 - 0
+Cluster values: 4.34483
+
+Cluster 2
+Point 13: 3.7 - 0
+Point 23: 5.17 - 1
+Point 40: 5.417 - 1
+Point 52: 5.0417 - 0
+Point 73: 5.90417 - 1
+Point 74: 4.79042 - 5
+Point 126: 5.47904 - 1
+Point 190: 5.1479 - 1
+Point 193: 4.41479 - 0
+Point 203: 5.24148 - 0
+Point 216: 4.52415 - 1
+Point 223: 4.55241 - 0
+Point 231: 5.35524 - 0
+Point 233: 5.23552 - 0
+Point 237: 3.72355 - 1
+Point 14: 4.87236 - 0
+Point 69: 4.78724 - 1
+Point 222: 5.27872 - 1
+Point 86: 6.22787 - 1
+Point 199: 4.82279 - 0
+Cluster values: 4.51
+
+Cluster 3
+Point 31: 6.7 - 3
+Point 21: 6.97 - 1
+Point 48: 5.697 - 0
+Point 62: 6.0697 - 1
+Point 83: 7.20697 - 0
+Point 100: 6.3207 - 1
+Point 102: 6.63207 - 1
+Point 109: 6.56321 - 3
+Point 110: 6.35632 - 0
+Point 130: 6.93563 - 0
+Point 138: 6.09356 - 0
+Point 139: 6.70936 - 1
+Point 147: 6.97094 - 0
+Point 149: 6.09709 - 0
+Point 171: 5.60971 - 1
+Point 186: 5.66097 - 0
+Point 217: 6.8661 - 0
+Point 224: 6.48661 - 0
+Point 249: 7.34866 - 2
+Point 58: 5.93487 - 1
+Point 228: 5.59349 - 1
+Cluster values: 5.80476
+
+Cluster 4
+Point 34: 4.6 - 0
+Point 64: 5.66 - 0
+Point 65: 4.366 - 1
+Point 97: 5.7366 - 2
+Point 103: 6.07366 - 1
+Point 113: 6.00737 - 0
+Point 163: 4.80074 - 0
+Point 185: 4.08007 - 0
+Point 198: 4.60801 - 1
+Point 235: 5.2608 - 1
+Point 155: 5.82608 - 0
+Point 89: 6.68261 - 0
+Point 225: 5.86826 - 1
+Point 201: 5.08683 - 1
+Point 79: 4.60868 - 1
+Point 192: 4.56087 - 0
+Point 63: 4.15609 - 0
+Point 196: 4.51561 - 1
+Point 42: 5.15156 - 1
+Point 4: 7.21516 - 9
+Point 153: 6.42152 - 0
+Cluster values: 4.8
+
+Cluster 5
+Point 156: 4.5 - 0
+Point 6: 2.95 - 8
+Point 8: 2.795 - 8
+Point 16: 4.6795 - 0
+Point 35: 4.86795 - 0
+Point 50: 3.8868 - 1
+Point 66: 5.18868 - 0
+Point 68: 4.11887 - 0
+Point 88: 5.41189 - 0
+Point 104: 4.64119 - 1
+Point 107: 5.06412 - 1
+Point 114: 5.40641 - 1
+Point 116: 4.54064 - 0
+Point 121: 4.15406 - 0
+Point 128: 5.51541 - 0
+Point 140: 4.65154 - 0
+Point 142: 4.86515 - 0
+Point 168: 4.78652 - 1
+Point 172: 4.77865 - 0
+Point 197: 4.47787 - 1
+Point 200: 5.24779 - 0
+Point 206: 6.02478 - 0
+Point 214: 3.60248 - 1
+Point 243: 4.06025 - 0
+Point 10: 3.90602 - 8
+Point 43: 4.2906 - 1
+Point 93: 3.62906 - 1
+Point 12: 5.06291 - 0
+Point 136: 5.10629 - 0
+Point 9: 5.51063 - 8
+Point 51: 5.85106 - 0
+Cluster values: 4.1871
+
+Cluster 6
+Point 240: 4.4 - 1
+Point 26: 5.24 - 1
+Point 33: 4.124 - 0
+Point 38: 4.8124 - 1
+Point 44: 4.58124 - 0
+Point 56: 4.85812 - 0
+Point 67: 4.38581 - 0
+Point 124: 5.83858 - 0
+Point 132: 5.38386 - 0
+Point 137: 5.13839 - 1
+Point 143: 5.11384 - 1
+Point 144: 5.11138 - 0
+Point 150: 5.11114 - 0
+Point 151: 6.11111 - 1
+Point 179: 4.21111 - 0
+Point 188: 5.22111 - 1
+Point 207: 5.32211 - 0
+Point 232: 3.03221 - 1
+Point 187: 5.00322 - 1
+Point 229: 5.40032 - 0
+Point 30: 5.24003 - 0
+Point 167: 5.224 - 1
+Point 28: 4.6224 - 1
+Point 244: 4.96224 - 1
+Point 158: 4.89622 - 1
+Cluster values: 4.46
+
+Cluster 7
+Point 22: 4.5 - 0
+Point 29: 5.55 - 0
+Point 87: 5.355 - 0
+Point 154: 5.9355 - 1
+Point 189: 5.29355 - 0
+Point 39: 6.12935 - 0
+Point 160: 6.11294 - 2
+Point 183: 5.81129 - 1
+Point 3: 6.78113 - 9
+Point 166: 5.27811 - 1
+Point 245: 5.22781 - 1
+Point 92: 5.12278 - 0
+Point 210: 6.41228 - 0
+Point 15: 5.64123 - 1
+Point 78: 6.56412 - 2
+Point 118: 5.95641 - 0
+Point 181: 4.59564 - 1
+Point 59: 5.05956 - 0
+Point 202: 6.00596 - 0
+Point 1: 5.8006 - 9
+Point 2: 6.28006 - 9
+Point 60: 6.12801 - 2
+Point 248: 6.4128 - 1
+Point 91: 4.24128 - 1
+Point 96: 6.42413 - 1
+Point 18: 5.24241 - 0
+Cluster values: 5.13846
+
+Cluster 8
+Point 218: 5.5 - 1
+Point 24: 4.95 - 1
+Point 46: 4.795 - 0
+Point 182: 5.3795 - 0
+Point 195: 5.53795 - 1
+Point 75: 5.55379 - 1
+Point 112: 6.05538 - 0
+Point 175: 5.50554 - 0
+Point 242: 4.85055 - 0
+Point 81: 5.88506 - 0
+Point 239: 4.48851 - 1
+Point 180: 4.74885 - 0
+Point 105: 5.57489 - 0
+Point 5: 7.25749 - 9
+Point 170: 4.92575 - 0
+Point 221: 6.29257 - 0
+Point 120: 5.92926 - 1
+Point 209: 5.79293 - 1
+Point 95: 6.07929 - 0
+Point 32: 6.30793 - 0
+Point 115: 5.83079 - 0
+Point 173: 5.78308 - 0
+Point 177: 5.77831 - 1
+Point 111: 6.07783 - 1
+Point 184: 6.80778 - 0
+Point 77: 5.98078 - 1
+Point 123: 5.49808 - 1
+Point 219: 5.54981 - 0
+Cluster values: 5.12143
+
+Cluster 9
+Point 152: 3.9 - 0
+Point 37: 3.79 - 1
+Point 41: 3.879 - 1
+Point 54: 4.8879 - 0
+Point 55: 4.58879 - 0
+Point 61: 4.65888 - 0
+Point 76: 4.16589 - 2
+Point 101: 4.21659 - 0
+Point 125: 5.52166 - 1
+Point 131: 5.75217 - 0
+Point 141: 4.27522 - 0
+Point 146: 4.52752 - 0
+Point 157: 4.15275 - 1
+Point 212: 5.11528 - 1
+Point 234: 4.51153 - 0
+Point 246: 5.15115 - 0
+Point 72: 5.51512 - 0
+Point 169: 5.85151 - 0
+Point 133: 4.68515 - 1
+Point 213: 5.36852 - 1
+Point 250: 5.13685 - 0
+Point 85: 5.21369 - 0
+Point 162: 5.32137 - 1
+Point 178: 5.43214 - 0
+Point 80: 4.64321 - 1
+Point 106: 6.16432 - 0
+Point 230: 6.21643 - 0
+Point 94: 7.02164 - 1
+Point 165: 4.80216 - 0
+Cluster values: 4.5
+
+Cluster 10
+Point 19: 5.5 - 0
+Point 45: 6.55 - 1
+Point 49: 6.655 - 1
+Point 57: 6.8655 - 1
+Point 82: 5.48655 - 0
+Point 117: 7.34865 - 1
+Point 129: 7.03487 - 0
+Point 161: 6.60349 - 0
+Point 191: 6.56035 - 0
+Point 194: 6.25603 - 0
+Point 227: 6.6256 - 1
+Point 247: 6.66256 - 2
+Point 211: 7.06626 - 1
+Point 236: 6.40663 - 0
+Point 241: 6.24066 - 1
+Point 7: 6.62407 - 8
+Point 134: 6.76241 - 1
+Point 99: 6.07624 - 1
+Point 204: 6.80762 - 1
+Point 25: 5.78076 - 1
+Cluster values: 5.875
+

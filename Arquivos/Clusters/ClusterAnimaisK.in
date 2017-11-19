@@ -1,0 +1,133 @@
+Break in iteration 4
+
+Cluster 1
+Point 33: 0.529412 - gorilla
+Point 28: 0.619377 - fruitbat
+Point 30: 0.683493 - girl
+Point 76: 0.804911 - sealion
+Point 85: 0.57676 - squirrel
+Point 94: 0.622162 - vampire
+Point 97: 0.624833 - wallaby
+Cluster values: 0.605042
+
+Cluster 2
+Point 87: 0.764706 - stingray
+Point 3: 0.692042 - bass
+Point 8: 0.687767 - carp
+Point 9: 0.687516 - catfish
+Point 13: 0.687501 - chub
+Point 19: 0.746324 - dogfish
+Point 35: 0.632137 - haddock
+Point 39: 0.684243 - herring
+Point 61: 0.746132 - pike
+Point 62: 0.690949 - piranha
+Point 63: 0.628879 - pitviper
+Point 74: 0.625228 - seahorse
+Point 77: 0.56619 - seasnake
+Point 81: 0.562717 - slowworm
+Point 83: 0.621336 - sole
+Point 93: 0.742432 - tuna
+Cluster values: 0.636029
+
+Cluster 3
+Point 27: 0.941176 - frog
+Point 26: 0.937716 - frog
+Point 90: 0.878689 - toad
+Point 53: 0.992864 - newt
+Cluster values: 0.897059
+
+Cluster 4
+Point 78: 0.647059 - seawasp
+Point 14: 0.567474 - clam
+Point 82: 0.562793 - slug
+Point 100: 0.562517 - worm
+Cluster values: 0.558824
+
+Cluster 5
+Point 11: 0.764706 - cheetah
+Point 1: 0.750865 - aardvark
+Point 2: 0.750051 - antelope
+Point 4: 0.750003 - bear
+Point 5: 0.808824 - boar
+Point 6: 0.75346 - buffalo
+Point 18: 0.750204 - deer
+Point 23: 0.750012 - elephant
+Point 29: 0.750001 - giraffe
+Point 37: 0.691177 - hare
+Point 45: 0.805363 - leopard
+Point 46: 0.81208 - lion
+Point 48: 0.812475 - lynx
+Point 49: 0.871322 - mink
+Point 50: 0.757137 - mole
+Point 51: 0.809243 - mongoose
+Point 55: 0.753485 - opossum
+Point 56: 0.750205 - oryx
+Point 64: 0.867659 - platypus
+Point 65: 0.815745 - polecat
+Point 68: 0.812691 - puma
+Point 69: 0.871335 - pussycat
+Point 70: 0.815961 - raccoon
+Point 95: 0.695056 - vole
+Point 99: 0.805592 - wolf
+Cluster values: 0.738824
+
+Cluster 6
+Point 71: 0.764706 - reindeer
+Point 7: 0.809689 - calf
+Point 10: 0.694688 - cavy
+Point 32: 0.80557 - goat
+Point 36: 0.753269 - hamster
+Point 66: 0.809016 - pony
+Cluster values: 0.735294
+
+Cluster 7
+Point 67: 0.588235 - porpoise
+Point 20: 0.622837 - dolphin
+Point 75: 0.624873 - seal
+Cluster values: 0.588235
+
+Cluster 8
+Point 16: 0.941176 - crayfish
+Point 15: 0.878893 - crab
+Point 25: 0.875229 - flea
+Point 31: 0.933837 - gnat
+Point 40: 1.11376 - honeybee
+Point 41: 1.00669 - housefly
+Point 43: 1.00039 - ladybird
+Point 47: 1.00002 - lobster
+Point 52: 1 - moth
+Point 54: 1.17647 - octopus
+Point 73: 1.18685 - scorpion
+Point 86: 0.952168 - starfish
+Point 89: 0.879539 - termite
+Point 98: 1.05174 - wasp
+Cluster values: 0.945378
+
+Cluster 9
+Point 12: 0.647059 - chicken
+Point 17: 0.685121 - crow
+Point 21: 0.68736 - dove
+Point 22: 0.687492 - duck
+Point 24: 0.6875 - flamingo
+Point 34: 0.746324 - gull
+Point 38: 0.69096 - hawk
+Point 42: 0.62888 - kiwi
+Point 44: 0.625228 - lark
+Point 57: 0.625013 - ostrich
+Point 58: 0.683824 - parakeet
+Point 59: 0.746107 - penguin
+Point 60: 0.632124 - pheasant
+Point 72: 0.684243 - rhea
+Point 79: 0.746132 - skimmer
+Point 80: 0.749772 - skua
+Point 84: 0.63234 - sparrow
+Point 88: 0.743079 - swan
+Point 96: 0.749593 - vulture
+Point 101: 0.632329 - wren
+Cluster values: 0.647059
+
+Cluster 10
+Point 92: 0.764706 - tuatara
+Point 91: 0.750865 - tortoise
+Cluster values: 0.735294
+
