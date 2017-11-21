@@ -12,7 +12,7 @@ using namespace Eigen;
 //Compile: g++ -I /destino/Eigen t.cpp -o t
 //Execute: ./t
 #define size_att 10 //numero total de atributos de cada instancia: usada para FOR'S, DECLARAÇÕES, ETC.
-#define size_inst 250 //numero total de instancias: usada para FOR'S, DECLARAÇÕES, ETC.
+#define size_inst 1000 //numero total de instancias: usada para FOR'S, DECLARAÇÕES, ETC.
 #define sigma 10 //para comparar distância entre duas instâncias: compare()
 #define col_normaliza 2 //para pegar somente as duas primeiras colunas da matrizX e matrizY
 //--------------------------------------------------------------//DECLARAÇÃO DE VARIÁVEIS
@@ -62,7 +62,7 @@ matriz_raiz_inversa();
 multiplica_matrizes_ML();//FIM DO PASSO2: MATRIZL
 autovetores();//FIM DO PASSO3: MATRIZX
 normaliza();//FIM DO PASSO4: MATRIZY
-cout << "250 2 10 100 1\n";
+cout << "1000 2 10 100 1\n";
 for (int i=0;i<size_inst;i++){
     for (int j = 0; j<col_normaliza;j++){
         cout << matrizY[i][j] << " ";
